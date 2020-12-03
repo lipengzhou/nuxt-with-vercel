@@ -2,7 +2,8 @@
   {
     "name": "index",
     "path": "/",
-    "component": "D:\\\\Lagou\\\\1-高薪直播\\\\20201127-高薪-答疑\\\\code\\\\nuxt-demo\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "component": "/home/lpz/Projects/nuxt-with-vercel/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0682e08e"
   }
 ]
